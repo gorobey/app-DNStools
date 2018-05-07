@@ -1,0 +1,15 @@
+{
+    "debug"         : false,  
+    "devel"         : true,
+    "esversion"     : 6,   
+    "globalstrict"        : true,
+    "predef"        : [
+        "global",
+        "require",
+        "__dirname",
+        "module",
+        "exports",
+        "process"
+    ],
+    "validthis": true
+}
