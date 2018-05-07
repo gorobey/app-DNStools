@@ -34,3 +34,9 @@ As with any self learning project there has been project/learning creep (There i
 gcloud app deploy app.yaml 
 gcloud app deploy --no-promote
 [Manage Versions](https://console.cloud.google.com/appengine/versions?_ga=2.74684050.-1299799958.1506383456)
+
+# Accessing Live
+```
+curl https://dwarfstar-2017.appspot.com/
+```
+
